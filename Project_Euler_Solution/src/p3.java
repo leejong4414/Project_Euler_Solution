@@ -11,7 +11,7 @@ public class p3 {
     public static void main(String [ ] args){
         BigInteger a = new BigInteger("600851475143");
         System.out.println(solution(a));
-
+ 
     }
     
    /* Solving Though process
